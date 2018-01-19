@@ -1,0 +1,14 @@
+body {
+    color: #232322;
+    padding-top: 5rem;
+}
+a{
+    cursor: pointer;
+}
+.navbar-nav .nav-item a {
+    color: #ffffff !important;
+}
+
+.bg-dark {
+    background-color: #0e3e4f !important;
+}
